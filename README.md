@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Interactive Student Admin Panel
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Admin-Panel
+An AI-powered admin panel that automates organizational workflows by understanding natural language requests. Users can submit requests like leave, bonafide, or complaints in plain text, and the system intelligently routes them for approval, tracks status, and sends real-time notifications, reducing paperwork and manual effort
+>>>>>>> dfdebd2fc79187b442035fa7fd31f5c9ea260edd
